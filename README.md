@@ -72,3 +72,8 @@ We want to select a store that match trial stores similar to a store before Feb 
 
 ## Trial Success
 Compare control store and trial store to see if the trial created statistically significant differences in sales and number of customers.
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 685a9cd219c808b0d73936c234823a5b06127275
