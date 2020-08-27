@@ -2,7 +2,7 @@
 - Examine transaction data to look for inconsistencies, missing data, find outliers, correctly identify category items and numeric data across the different tables.
 - Examine customer data to check for similar issues in customer data, look for nulls and merge the transaction data and customer data to prepare for data analysis
 - Analyze data and customer segments by defining the metrics and looking at total sales, driver of sales, such as where the highest sales are coming from, etc. We will find interesting insights and trends in the data.
-- Deep dive into customer segments by defining recommendations from the aformentioned insights, determine which segments we should target, and if packet sizes and form and overall conclusion based on the analysis.
+- Deep dive into customer segments by defining recommendations from the aformentioned insights, determine which segments we should target, and form an overall conclusion based on the analysis.
 - Select control stores - explore data and define metrics for control store. Look at the drivers and look at them visually to see if they are suitable
 - Assess each trial store - Look at each of the trial store and compare them to the control store to see if there are significant difference
 
@@ -72,8 +72,3 @@ We want to select a store that match trial stores similar to a store before Feb 
 
 ## Trial Success
 Compare control store and trial store to see if the trial created statistically significant differences in sales and number of customers.
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 685a9cd219c808b0d73936c234823a5b06127275
